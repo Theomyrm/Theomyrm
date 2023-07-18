@@ -8,7 +8,7 @@ github on a regular basis, adding repos, viewing instructions, tutorials, etc.
 
 I have some experience with:
 
-C#: I know the basics, know how to declare variables, make functions, classes, but Unity oriented: not on other environment.
+C#: I know the basics, the logic of OOL (Object Oriented Lenguages).
 
 Python: This is the language which I have more experience with. I have experience using qiskit for quantum computing, turtle for making graphics, matplotlib, numpy, pandas, etc.
 
